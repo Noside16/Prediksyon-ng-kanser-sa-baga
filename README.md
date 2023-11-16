@@ -1,1 +1,1 @@
-# Prediksyo-ng-kanser-sa-baga
+# Prediksyon-ng-kanser-sa-baga
